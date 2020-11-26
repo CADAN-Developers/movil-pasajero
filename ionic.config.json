@@ -1,0 +1,7 @@
+{
+  "name": "movil-cadanwheels",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
